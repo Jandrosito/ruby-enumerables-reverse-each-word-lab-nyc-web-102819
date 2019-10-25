@@ -1,3 +1,3 @@
-def reverse_each_word(:sentence1)
-  :sentence1.select {|str|str.reverse}
+def reverse_each_word(string)
+  string = []
 end
